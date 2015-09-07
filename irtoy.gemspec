@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.name        = 'irtoy'
   s.version     = IRToy::VERSION
   s.date        = '2015-09-07'
-  s.summary     = ' A gem for transmitting and receiving infrared signals from an IR Toy'
-  s.description = 'Heavily inspiered by https://github.com/crleblanc/PyIrToy and https://github.com/djellemah/irtoy-hexbug-spider .'
+  s.summary     = 'A gem for transmitting and receiving infrared signals from an IR Toy'
+  s.description = 'A gem for transmitting and receiving infrared signals from an IR Toy. Heavily inspiered by https://github.com/crleblanc/PyIrToy and https://github.com/djellemah/irtoy-hexbug-spider .'
   s.authors     = ['Thorsten Eckel']
   s.email       = 'none@rubygems.org'
   s.files       = ['lib/hola.rb']
