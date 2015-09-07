@@ -1,7 +1,7 @@
 require 'rubyserial'
 
 class IRToy < Serial
-  VERSION = '0.1' unless const_defined?('VERSION')
+  VERSION = '0.1.1' unless const_defined?('VERSION')
 
   module Version
     MINVERSION = 22
